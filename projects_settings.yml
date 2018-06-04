@@ -24,3 +24,14 @@ projects:
         repository: api-anagrafe-tre-civette-doc
       - title: Matrimoni nel comune di Tre Civette
         repository: matrimoni-tre-civette-doc
+  - title: Rifiuti di Tre Civette sul Comò
+    short-name: Rifiuti
+    description:
+      Lorem ipsum dolor sit amet, consectetur
+      adipisicing elit, sed do eiusmod tempor
+      incididunt ut labore et dolore magna aliqua.
+    website: https://progetto.trecivettesulcomo.gov.it/rifiuti
+    tags:
+      - rifiuti
+      - cittadini
+      - comune
