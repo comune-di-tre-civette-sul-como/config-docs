@@ -1,5 +1,5 @@
 projects:
-  - title: Anagrafe di Tre Civette sul Comò
+  - name: Anagrafe di Tre Civette sul Comò
     short-name: Anagrafe
     description:
       Lorem ipsum dolor sit amet, consectetur
@@ -20,11 +20,9 @@ projects:
       - cittadini
       - comune
     documents:
-      - title: Utilzzo API dell'anagrafe di Tre Civette
-        repository: api-anagrafe-tre-civette-doc
-      - title: Matrimoni nel comune di Tre Civette
-        repository: matrimoni-tre-civette-doc
-  - title: Rifiuti di Tre Civette sul Comò
+      - api-anagrafe-tre-civette-doc
+      - matrimoni-tre-civette-doc
+  - name: Rifiuti di Tre Civette sul Comò
     short-name: Rifiuti
     description:
       Lorem ipsum dolor sit amet, consectetur
