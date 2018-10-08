@@ -4,5 +4,4 @@ projects:
     description: "Questo progetto racchiude tutta l'anagrafe"
     documents:
       - api-anagrafe-tre-civette-doc
-      - matrimoni-tre-civette-doc
       - codice-amministrazione-digitale-docs
