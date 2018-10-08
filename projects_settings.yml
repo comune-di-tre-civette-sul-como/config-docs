@@ -1,35 +1,7 @@
 projects:
   - name: Anagrafe di Tre Civette sul Comò
     short-name: Anagrafe
-    description:
-      Lorem ipsum dolor sit amet, consectetur
-      adipisicing elit, sed do eiusmod tempor
-      incididunt ut labore et dolore magna aliqua.
-      Ut enim ad minim veniam, quis nostrud
-      exercitation ullamco laboris nisi ut
-      aliquip ex ea commodo consequat.
-      Duis aute irure dolor in reprehenderit in
-      voluptate velit esse cillum dolore eu
-      fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat non proident, sunt in
-      culpa qui officia deserunt mollit anim id
-      est laborum.
-    website: https://progetto.trecivettesulcomo.gov.it/anagrafe
-    tags:
-      - anagrafe
-      - cittadini
-      - comune
+    description: "Questo progetto racchiude tutta l'anagrafe"
     documents:
       - api-anagrafe-tre-civette-doc
       - matrimoni-tre-civette-doc
-  - name: Rifiuti di Tre Civette sul Comò
-    short-name: Rifiuti
-    description:
-      Lorem ipsum dolor sit amet, consectetur
-      adipisicing elit, sed do eiusmod tempor
-      incididunt ut labore et dolore magna aliqua.
-    website: https://progetto.trecivettesulcomo.gov.it/rifiuti
-    tags:
-      - rifiuti
-      - cittadini
-      - comune
