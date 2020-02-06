@@ -1,12 +1,12 @@
 projects:
-  - name: Anagrafe di Tre Civette sul Comò
-    short-name: Anagrafe
-    description: "Questo progetto racchiude tutta l'anagrafe"
-    documents:
-      - api-anagrafe-tre-civette-doc
-      - codice-amministrazione-digitale-docs
-      - api-anagrafe-tre-civette-doc-invalid
-      - tre-civette-documento
-      - tre-civette-markdown
-      - policy-inserimento-catalogo-docs 
-      - design-linee-guida-docs
+    - name: Anagrafe di Tre Civette sul Comò
+ short-name: Anagrafe
+      description: "Questo progetto racchiude tutta l'anagrafe"
+      documents:
+        - api-anagrafe-tre-civette-doc
+        - codice-amministrazione-digitale-docs
+        - api-anagrafe-tre-civette-doc-invalid
+        - tre-civette-documento
+        - tre-civette-markdown
+        - policy-inserimento-catalogo-docs 
+        - design-linee-guida-docs
